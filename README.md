@@ -181,3 +181,8 @@ There is a growing number of researchers working with evolutionary computation w
 
 ## Disclaimer
 This is not an official Google product.
+
+
+## TODO:
+- [ ] Build a pipeline for NEAT algorithm and then connect open ai gym environments.
+- [ ] 
