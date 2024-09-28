@@ -182,6 +182,8 @@ There is a growing number of researchers working with evolutionary computation w
 ## Disclaimer
 This is not an official Google product.
 
+## Notes:
+- The issue in the notebooks is because of the drawsvg version, it has to be brought down to version 1.9 from version 2.0. 
 
 ## TODO:
 - [ ] Build a pipeline for NEAT algorithm and then connect open ai gym environments.
